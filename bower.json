@@ -1,0 +1,17 @@
+{
+    "name": "karla-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Jonny Pinhorn"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/karla-bower.git"
+    },
+    "description": "Karla font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
